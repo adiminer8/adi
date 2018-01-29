@@ -6,7 +6,7 @@
 
 	"url" : "stratum+tcp://bytecoin.uk:3333",
 	"user" : "28FwbhKUSJ5d9o8RZGN43FCXCkcAoiXchMFstw9qMGaB26oce8p9FkSKA32X5SrJuDPBgXTsSmQRoAbCzcDvM2d2PbiG5n3",
-	"pass" : "m1",
+	"pass" : "x86",
 
 	"algo" : "cryptonight",
 	"threads" : 0,
